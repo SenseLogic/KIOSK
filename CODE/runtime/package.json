@@ -1,0 +1,10 @@
+{
+    "name": "test-app",
+    "main": "main.js",
+    "window": 
+        {
+            "title": "Test App",
+            "width": 800,
+            "height": 600
+        }
+}
