@@ -1,0 +1,26 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+
+[*.{js,jsx,ts,tsx,cjs,mjs}]
+
+ij_javascript_spaces_within_parentheses = true
+ij_javascript_spaces_around_operators = true
+ij_javascript_spaces_after_comma = true
+ij_javascript_spaces_before_left_brace = true
+ij_javascript_keep_line_breaks = true
+ij_javascript_keep_blank_lines_in_code = 1
+ij_javascript_wrap_arrow_in_new_line = true
+ij_javascript_align_multiline_parameters = true
+ij_javascript_keep_simple_blocks_in_one_line = false
+ij_javascript_keep_simple_lambdas_in_one_line = false
+
+[*.svelte]
+ij_html_script_code_style = {indent_style: space, indent_size: 4}
+ij_html_style_code_style = {indent_style: space, indent_size: 4}
