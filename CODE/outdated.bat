@@ -1,1 +1,1 @@
-npm outdated
+call yarn outdated

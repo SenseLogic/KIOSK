@@ -6,11 +6,13 @@ Kiosk application startup project.
 
 ## Dependencies
 
-*   Vite
+*   Def
 *   Flow
-*   Gist
+*   Lingo
+*   Stylus
 *   Svelte
-*   NW.js
+*   Vite
+*   NW
 
 ## Version
 

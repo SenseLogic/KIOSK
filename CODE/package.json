@@ -10,11 +10,13 @@
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "stylus": "^0.64.0",
     "svelte": "^5.23.1",
     "vite": "^6.3.5"
   },
   "dependencies": {
+    "senselogic-def": "^0.1.4",
     "senselogic-flow": "^0.0.39",
-    "senselogic-gist": "^3.0.8"
+    "senselogic-lingo": "^0.1.3"
   }
 }
