@@ -16,9 +16,10 @@
 
     .counter
     {
-        padding: 0.5rem 1rem;
-        background-color: blueColor700;
         border-radius: 0.5rem;
+        padding: 0.5rem 1rem;
+
+        background-color: blueColor700;
     }
 </style>
 
